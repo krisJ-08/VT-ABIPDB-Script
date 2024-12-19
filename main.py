@@ -115,7 +115,6 @@ def main():
 
 		with open(OUTPUT_FILE, 'w', newline='') as outfile:
 				writer = csv.writer(outfile, quotechar='"', quoting=csv.QUOTE_MINIMAL)
-				writer.writerow(['IP Address', 'Reputation', 'Threat Intel', 'ISP', 'Country'])
 				writer.writerows(all_results)
 
 

@@ -1,13 +1,2 @@
-IP Address,Reputation,Threat Intel,ISP,Country
 23.33.92.11,0 hits,Akamai International B.V.,Hong Kong,VirusTotal
-23.33.92.15,0 hits,Akamai International B.V.,Hong Kong,VirusTotal
-23.33.92.23,0 hits,Akamai International B.V.,Hong Kong,VirusTotal
-23.33.92.39,0 hits,Akamai International B.V.,Hong Kong,VirusTotal
-23.33.92.56,0 hits,Akamai International B.V.,Hong Kong,VirusTotal
-23.33.92.57,0 hits,Akamai International B.V.,Hong Kong,VirusTotal
-23.33.92.62,0 hits,Akamai International B.V.,Hong Kong,VirusTotal
-23.33.92.63,0 hits,Akamai International B.V.,Hong Kong,VirusTotal
-23.33.92.64,0 hits,Akamai International B.V.,Hong Kong,VirusTotal
-34.104.35.123,1 hit,GOOGLE-CLOUD-PLATFORM,United States,VirusTotal
-40.99.33.146,0 hits,MICROSOFT-CORP-MSN-AS-BLOCK,Singapore,VirusTotal
-52.105.223.27,0 hits,MICROSOFT-CORP-MSN-AS-BLOCK,Japan,VirusTotal
+23.33.92.11,0% COA,"Akamai Technologies, Inc.",Hong Kong,AbuseIPDB
