@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # Ignore input and output files
-#ips-input.txt
-#ips-output.csv
+ips-input.txt
+ips-output.csv
