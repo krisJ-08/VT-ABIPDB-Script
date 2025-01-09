@@ -38,9 +38,11 @@ This repository contains a Python script developed by Inspira that integrates wi
 
 3. Run the script:
     ```bash
-    python script.py
+    python main.py
     ```
 
-4. The results will be saved in the specified csv file `ips-output.csv` directory.
+4. Choose from the 3 choices, (1) is to only use VirusTotal, (2) is to only use AbuseIPDB and (3) to use both.
+
+5. The results will be saved in the specified csv file `ips-output.csv` directory.
 
 ### HAPPY MONITORING!!!
