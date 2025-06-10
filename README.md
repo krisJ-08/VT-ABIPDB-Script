@@ -28,6 +28,11 @@ This repository contains a Python script developed by Inspira that integrates wi
     VIRUSTOTAL_API_KEY=your_virustotal_api_key
     ABUSEIPDB_API_KEY=your_abuseipdb_api_key
     ```
+    For multiple Virustotal API keys, write the API keys in between a comma (,)
+    ```env
+    VIRUSTOTAL_API_KEY=api_key1,api_key2,api_key3,...
+    ABUSEIPDB_API_KEY=your_abuseipdb_api_key
+    ```
 
 2. Input the list of IPs into the `ips-input.txt` file. Each IP should be on a new line:
     ```
