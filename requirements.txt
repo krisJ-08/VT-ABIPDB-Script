@@ -13,3 +13,4 @@ tqdm==4.66.4
 urllib3==2.2.2
 vt-py==0.18.2
 yarl==1.9.4
+pycountry==24.6.1
