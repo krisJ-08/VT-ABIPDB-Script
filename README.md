@@ -34,7 +34,7 @@ This repository contains a Python script developed by Inspira that integrates wi
     ABUSEIPDB_API_KEY=your_abuseipdb_api_key
     ```
 
-2. Input the list of IPs into the `ips-input.txt` file. Each IP should be on a new line:
+2. Create a text file named `ips-input.txt` then paste the list of IPs to that file. Each IP should be on a new line:
     ```
     192.168.1.1
     8.8.8.8
